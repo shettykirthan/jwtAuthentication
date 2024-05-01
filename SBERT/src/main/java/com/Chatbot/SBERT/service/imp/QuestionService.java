@@ -1,4 +1,4 @@
-package com.Chatbot.SBERT.service;
+package com.Chatbot.SBERT.service.imp;
 
 import com.Chatbot.SBERT.model.Question;
 import org.springframework.beans.factory.annotation.Autowired;
